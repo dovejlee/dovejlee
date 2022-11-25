@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @dovejlee
-- 👀 I’m interested in Data Analysis of Moving Subject based on Python and R.
+- 👋 Hi, I’m @dovejlee working at Hanseo Univ. Dept of UAS, Division of Applied Drones. 
+- 👀 I’m interested in Data Analysis of Moving Subject based on Python.
 - 🌱 I’m currently teaching Drone Data Analysis.
 - 💞️ I’m looking to collaborate on Drone.
 - 📫 If you have a question, plase contect to dovejlee@gmail.com
